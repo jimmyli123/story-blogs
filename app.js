@@ -11,7 +11,6 @@ const connectDB = require('./config/db')
 const methodOverride = require('method-override')
 
 
-
 // Load config
 dotenv.config({ path: './config/config.env'})
 
